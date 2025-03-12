@@ -1,1 +1,1 @@
-This is the original science article from main branch.
+This is a conflicting science article from add-article branch.
